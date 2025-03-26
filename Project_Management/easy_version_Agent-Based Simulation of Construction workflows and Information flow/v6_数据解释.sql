@@ -1,0 +1,12 @@
+-- day_number：日期（起始日为0，实际有效数据从第一天开始）
+-- floor：楼层
+-- process：对应的工序任务
+-- assigned_trade：分配的工种
+-- planned_remaining：实际规划的工作量（初始的被扰动了之后的工作量，带有变更信息正负10%）
+-- task_status：任务状态（pending：未开始，in_progress：进行中，completed：已完成）
+-- initial_production_rate：初始工种产能（不考虑其他扰动因素的产能）
+-- remain_work：当天的剩余工作量（记录时间为当天晚上，所以对应的today_workload表示当天做的量）
+-- unchanged_quantity_of_work：原始的工作量（原始的工作量，通过正负10%变化可以得到planned_remaining）
+-- is_rework：当天的工作是否返工（FALSE：未返工，TRUE：返工）
+-- invalid_workload_today：当天的无效工作量（返工但是也做了些事情）
+-- today_workload：当天的有效工作量（实际每天干了多少工作）

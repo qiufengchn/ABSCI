@@ -1,0 +1,603 @@
+﻿day_number,process,floor,trade,is_invalid,is_rework,daily_work_done,efficiency,start_day,complete_day,recorded_at
+1,Gravel base layer,1,Gravel,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+1,Partition phase 1,1,Partition,FALSE,TRUE,54,98.18%,0,null,2025-03-25 11:54:28.699895+00
+2,Gravel base layer,1,Gravel,FALSE,TRUE,34,100.00%,0,null,2025-03-25 11:54:28.699895+00
+2,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+3,Gravel base layer,1,Gravel,FALSE,TRUE,31,91.18%,0,null,2025-03-25 11:54:28.699895+00
+3,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+4,Gravel base layer,1,Gravel,FALSE,TRUE,37,108.82%,0,null,2025-03-25 11:54:28.699895+00
+4,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+5,Gravel base layer,1,Gravel,FALSE,TRUE,36,105.88%,0,null,2025-03-25 11:54:28.699895+00
+5,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+6,Gravel base layer,1,Gravel,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+6,Partition phase 1,1,Partition,FALSE,TRUE,53,96.36%,0,null,2025-03-25 11:54:28.699895+00
+7,Gravel base layer,1,Gravel,FALSE,TRUE,37,108.82%,0,7,2025-03-25 11:54:28.699895+00
+7,Partition phase 1,1,Partition,FALSE,TRUE,54,98.18%,0,null,2025-03-25 11:54:28.699895+00
+8,Electric conduits in the floor,1,Electricity,FALSE,TRUE,51,100.00%,7,null,2025-03-25 11:54:28.699895+00
+8,Gravel base layer,2,Gravel,TRUE,TRUE,0,0.00%,7,null,2025-03-25 11:54:28.699895+00
+8,Partition phase 1,1,Partition,FALSE,TRUE,60,109.09%,0,null,2025-03-25 11:54:28.699895+00
+8,Pipes in the floor,1,Plumbing,FALSE,TRUE,74,107.25%,7,null,2025-03-25 11:54:28.699895+00
+9,Electric conduits in the floor,1,Electricity,TRUE,TRUE,0,0.00%,7,null,2025-03-25 11:54:28.699895+00
+9,Gravel base layer,2,Gravel,FALSE,TRUE,33,97.06%,7,null,2025-03-25 11:54:28.699895+00
+9,Partition phase 1,1,Partition,FALSE,TRUE,53,96.36%,0,null,2025-03-25 11:54:28.699895+00
+9,Pipes in the floor,1,Plumbing,TRUE,TRUE,0,0.00%,7,null,2025-03-25 11:54:28.699895+00
+10,Electric conduits in the floor,1,Electricity,TRUE,TRUE,0,0.00%,7,null,2025-03-25 11:54:28.699895+00
+10,Gravel base layer,2,Gravel,FALSE,TRUE,36,105.88%,7,null,2025-03-25 11:54:28.699895+00
+10,Partition phase 1,1,Partition,FALSE,TRUE,54,98.18%,0,null,2025-03-25 11:54:28.699895+00
+10,Pipes in the floor,1,Plumbing,FALSE,TRUE,66,95.65%,7,10,2025-03-25 11:54:28.699895+00
+11,Electric conduits in the floor,1,Electricity,FALSE,TRUE,54,105.88%,7,11,2025-03-25 11:54:28.699895+00
+11,Gravel base layer,2,Gravel,FALSE,TRUE,33,97.06%,7,null,2025-03-25 11:54:28.699895+00
+11,Partition phase 1,1,Partition,FALSE,TRUE,55,100.00%,0,null,2025-03-25 11:54:28.699895+00
+12,Floor tiling,1,Tiling,FALSE,TRUE,61,98.39%,11,null,2025-03-25 11:54:28.699895+00
+12,Gravel base layer,2,Gravel,FALSE,TRUE,31,91.18%,7,null,2025-03-25 11:54:28.699895+00
+12,Partition phase 1,1,Partition,FALSE,TRUE,60,109.09%,0,null,2025-03-25 11:54:28.699895+00
+13,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+13,Gravel base layer,2,Gravel,FALSE,TRUE,33,97.06%,7,13,2025-03-25 11:54:28.699895+00
+13,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+14,Electric conduits in the floor,2,Electricity,FALSE,TRUE,56,109.80%,13,null,2025-03-25 11:54:28.699895+00
+14,Floor tiling,1,Tiling,FALSE,TRUE,56,90.32%,11,null,2025-03-25 11:54:28.699895+00
+14,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+14,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+14,Pipes in the floor,2,Plumbing,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+15,Electric conduits in the floor,2,Electricity,FALSE,TRUE,49,96.08%,13,15,2025-03-25 11:54:28.699895+00
+15,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+15,Gravel base layer,3,Gravel,FALSE,TRUE,36,105.88%,13,null,2025-03-25 11:54:28.699895+00
+15,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+15,Pipes in the floor,2,Plumbing,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+16,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+16,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+16,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+16,Pipes in the floor,2,Plumbing,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+17,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+17,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+17,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+17,Pipes in the floor,2,Plumbing,FALSE,TRUE,72,104.35%,13,null,2025-03-25 11:54:28.699895+00
+18,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+18,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+18,Partition phase 1,1,Partition,FALSE,TRUE,53,96.36%,0,null,2025-03-25 11:54:28.699895+00
+18,Pipes in the floor,2,Plumbing,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+19,Floor tiling,1,Tiling,FALSE,TRUE,66,106.45%,11,null,2025-03-25 11:54:28.699895+00
+19,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+19,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+19,Pipes in the floor,2,Plumbing,FALSE,TRUE,68,98.55%,13,19,2025-03-25 11:54:28.699895+00
+20,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+20,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+20,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+21,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+21,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+21,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+22,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+22,Gravel base layer,3,Gravel,FALSE,TRUE,37,108.82%,13,null,2025-03-25 11:54:28.699895+00
+22,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+23,Floor tiling,1,Tiling,FALSE,TRUE,66,106.45%,11,null,2025-03-25 11:54:28.699895+00
+23,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+23,Partition phase 1,1,Partition,FALSE,TRUE,51,92.73%,0,null,2025-03-25 11:54:28.699895+00
+24,Floor tiling,1,Tiling,FALSE,TRUE,57,91.94%,11,null,2025-03-25 11:54:28.699895+00
+24,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+24,Partition phase 1,1,Partition,FALSE,TRUE,55,100.00%,0,null,2025-03-25 11:54:28.699895+00
+25,Floor tiling,1,Tiling,FALSE,TRUE,65,104.84%,11,null,2025-03-25 11:54:28.699895+00
+25,Gravel base layer,3,Gravel,FALSE,TRUE,37,108.82%,13,null,2025-03-25 11:54:28.699895+00
+25,Partition phase 1,1,Partition,FALSE,TRUE,53,96.36%,0,null,2025-03-25 11:54:28.699895+00
+26,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+26,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+26,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+27,Floor tiling,1,Tiling,FALSE,TRUE,64,103.23%,11,null,2025-03-25 11:54:28.699895+00
+27,Gravel base layer,3,Gravel,FALSE,TRUE,35,102.94%,13,null,2025-03-25 11:54:28.699895+00
+27,Partition phase 1,1,Partition,TRUE,TRUE,0,0.00%,0,null,2025-03-25 11:54:28.699895+00
+28,Floor tiling,1,Tiling,FALSE,TRUE,56,90.32%,11,null,2025-03-25 11:54:28.699895+00
+28,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+28,Partition phase 1,1,Partition,FALSE,TRUE,59,107.27%,0,null,2025-03-25 11:54:28.699895+00
+29,Floor tiling,1,Tiling,FALSE,TRUE,62,100.00%,11,null,2025-03-25 11:54:28.699895+00
+29,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+29,Partition phase 1,1,Partition,FALSE,TRUE,59,107.27%,0,29,2025-03-25 11:54:28.699895+00
+30,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+30,Gravel base layer,3,Gravel,TRUE,TRUE,0,0.00%,13,null,2025-03-25 11:54:28.699895+00
+30,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+30,Pipes in the wall,1,Plumbing,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+31,Floor tiling,1,Tiling,TRUE,TRUE,0,0.00%,11,null,2025-03-25 11:54:28.699895+00
+31,Gravel base layer,3,Gravel,FALSE,TRUE,35,102.94%,13,31,2025-03-25 11:54:28.699895+00
+31,Partition phase 1,2,Partition,FALSE,TRUE,60,109.09%,29,null,2025-03-25 11:54:28.699895+00
+31,Pipes in the wall,1,Plumbing,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+32,Electric conduits in the floor,3,Electricity,FALSE,TRUE,51,100.00%,31,null,2025-03-25 11:54:28.699895+00
+32,Floor tiling,1,Tiling,FALSE,TRUE,64,103.23%,11,null,2025-03-25 11:54:28.699895+00
+32,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+32,Partition phase 1,2,Partition,FALSE,TRUE,52,94.55%,29,null,2025-03-25 11:54:28.699895+00
+32,Pipes in the wall,1,Plumbing,FALSE,TRUE,35,94.59%,29,null,2025-03-25 11:54:28.699895+00
+33,Electric conduits in the floor,3,Electricity,FALSE,TRUE,53,103.92%,31,33,2025-03-25 11:54:28.699895+00
+33,Floor tiling,1,Tiling,FALSE,TRUE,66,106.45%,11,null,2025-03-25 11:54:28.699895+00
+33,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+33,Partition phase 1,2,Partition,FALSE,TRUE,52,94.55%,29,null,2025-03-25 11:54:28.699895+00
+33,Pipes in the wall,1,Plumbing,FALSE,TRUE,33,89.19%,29,null,2025-03-25 11:54:28.699895+00
+34,Floor tiling,1,Tiling,FALSE,TRUE,59,95.16%,11,null,2025-03-25 11:54:28.699895+00
+34,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+34,Partition phase 1,2,Partition,FALSE,TRUE,58,105.45%,29,null,2025-03-25 11:54:28.699895+00
+34,Pipes in the wall,1,Plumbing,FALSE,TRUE,33,89.19%,29,null,2025-03-25 11:54:28.699895+00
+35,Floor tiling,1,Tiling,FALSE,TRUE,56,90.32%,11,35,2025-03-25 11:54:28.699895+00
+35,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+35,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+35,Pipes in the wall,1,Plumbing,FALSE,TRUE,37,100.00%,29,null,2025-03-25 11:54:28.699895+00
+36,Floor tiling,2,Tiling,FALSE,TRUE,63,101.61%,35,null,2025-03-25 11:54:28.699895+00
+36,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+36,Partition phase 1,2,Partition,FALSE,TRUE,58,105.45%,29,null,2025-03-25 11:54:28.699895+00
+36,Pipes in the wall,1,Plumbing,FALSE,TRUE,37,100.00%,29,null,2025-03-25 11:54:28.699895+00
+37,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+37,Gravel base layer,4,Gravel,FALSE,TRUE,35,102.94%,31,null,2025-03-25 11:54:28.699895+00
+37,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+37,Pipes in the wall,1,Plumbing,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+38,Floor tiling,2,Tiling,FALSE,TRUE,63,101.61%,35,null,2025-03-25 11:54:28.699895+00
+38,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+38,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+38,Pipes in the wall,1,Plumbing,FALSE,TRUE,35,94.59%,29,38,2025-03-25 11:54:28.699895+00
+39,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+39,Gravel base layer,4,Gravel,FALSE,TRUE,31,91.18%,31,null,2025-03-25 11:54:28.699895+00
+39,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+39,Pipes in the floor,3,Plumbing,TRUE,TRUE,0,0.00%,38,null,2025-03-25 11:54:28.699895+00
+40,Floor tiling,2,Tiling,FALSE,TRUE,58,93.55%,35,null,2025-03-25 11:54:28.699895+00
+40,Gravel base layer,4,Gravel,FALSE,TRUE,31,91.18%,31,null,2025-03-25 11:54:28.699895+00
+40,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+40,Pipes in the floor,3,Plumbing,FALSE,TRUE,72,104.35%,38,null,2025-03-25 11:54:28.699895+00
+41,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+41,Gravel base layer,4,Gravel,FALSE,TRUE,34,100.00%,31,null,2025-03-25 11:54:28.699895+00
+41,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+41,Pipes in the floor,3,Plumbing,FALSE,TRUE,74,107.25%,38,41,2025-03-25 11:54:28.699895+00
+42,Floor tiling,2,Tiling,FALSE,TRUE,56,90.32%,35,null,2025-03-25 11:54:28.699895+00
+42,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+42,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+43,Floor tiling,2,Tiling,FALSE,TRUE,64,103.23%,35,null,2025-03-25 11:54:28.699895+00
+43,Gravel base layer,4,Gravel,TRUE,TRUE,0,0.00%,31,null,2025-03-25 11:54:28.699895+00
+43,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+44,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+44,Gravel base layer,4,Gravel,FALSE,TRUE,33,97.06%,31,44,2025-03-25 11:54:28.699895+00
+44,Partition phase 1,2,Partition,FALSE,TRUE,50,90.91%,29,null,2025-03-25 11:54:28.699895+00
+45,Electric conduits in the floor,4,Electricity,FALSE,TRUE,54,105.88%,44,null,2025-03-25 11:54:28.699895+00
+45,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+45,Gravel base layer,5,Gravel,FALSE,TRUE,37,108.82%,44,null,2025-03-25 11:54:28.699895+00
+45,Partition phase 1,2,Partition,FALSE,TRUE,53,96.36%,29,null,2025-03-25 11:54:28.699895+00
+45,Pipes in the floor,4,Plumbing,FALSE,TRUE,72,104.35%,44,null,2025-03-25 11:54:28.699895+00
+46,Electric conduits in the floor,4,Electricity,FALSE,TRUE,54,105.88%,44,46,2025-03-25 11:54:28.699895+00
+46,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+46,Gravel base layer,5,Gravel,TRUE,TRUE,0,0.00%,44,null,2025-03-25 11:54:28.699895+00
+46,Partition phase 1,2,Partition,FALSE,TRUE,60,109.09%,29,null,2025-03-25 11:54:28.699895+00
+46,Pipes in the floor,4,Plumbing,TRUE,TRUE,0,0.00%,44,null,2025-03-25 11:54:28.699895+00
+47,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+47,Gravel base layer,5,Gravel,TRUE,TRUE,0,0.00%,44,null,2025-03-25 11:54:28.699895+00
+47,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+47,Pipes in the floor,4,Plumbing,TRUE,TRUE,0,0.00%,44,null,2025-03-25 11:54:28.699895+00
+48,Floor tiling,2,Tiling,FALSE,TRUE,63,101.61%,35,null,2025-03-25 11:54:28.699895+00
+48,Gravel base layer,5,Gravel,FALSE,TRUE,33,97.06%,44,null,2025-03-25 11:54:28.699895+00
+48,Partition phase 1,2,Partition,FALSE,TRUE,55,100.00%,29,null,2025-03-25 11:54:28.699895+00
+48,Pipes in the floor,4,Plumbing,FALSE,TRUE,72,104.35%,44,48,2025-03-25 11:54:28.699895+00
+49,Floor tiling,2,Tiling,FALSE,TRUE,64,103.23%,35,null,2025-03-25 11:54:28.699895+00
+49,Gravel base layer,5,Gravel,TRUE,TRUE,0,0.00%,44,null,2025-03-25 11:54:28.699895+00
+49,Partition phase 1,2,Partition,FALSE,TRUE,54,98.18%,29,null,2025-03-25 11:54:28.699895+00
+50,Floor tiling,2,Tiling,FALSE,TRUE,63,101.61%,35,null,2025-03-25 11:54:28.699895+00
+50,Gravel base layer,5,Gravel,FALSE,TRUE,33,97.06%,44,null,2025-03-25 11:54:28.699895+00
+50,Partition phase 1,2,Partition,FALSE,TRUE,54,98.18%,29,null,2025-03-25 11:54:28.699895+00
+51,Floor tiling,2,Tiling,FALSE,TRUE,64,103.23%,35,null,2025-03-25 11:54:28.699895+00
+51,Gravel base layer,5,Gravel,FALSE,TRUE,32,94.12%,44,null,2025-03-25 11:54:28.699895+00
+51,Partition phase 1,2,Partition,FALSE,TRUE,59,107.27%,29,null,2025-03-25 11:54:28.699895+00
+52,Floor tiling,2,Tiling,FALSE,TRUE,62,100.00%,35,null,2025-03-25 11:54:28.699895+00
+52,Gravel base layer,5,Gravel,TRUE,TRUE,0,0.00%,44,null,2025-03-25 11:54:28.699895+00
+52,Partition phase 1,2,Partition,FALSE,TRUE,60,109.09%,29,null,2025-03-25 11:54:28.699895+00
+53,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+53,Gravel base layer,5,Gravel,TRUE,TRUE,0,0.00%,44,null,2025-03-25 11:54:28.699895+00
+53,Partition phase 1,2,Partition,TRUE,TRUE,0,0.00%,29,null,2025-03-25 11:54:28.699895+00
+54,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+54,Gravel base layer,5,Gravel,FALSE,TRUE,34,100.00%,44,54,2025-03-25 11:54:28.699895+00
+54,Partition phase 1,2,Partition,FALSE,TRUE,60,109.09%,29,54,2025-03-25 11:54:28.699895+00
+55,Electric conduits in the floor,5,Electricity,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+55,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+55,Partition phase 2,1,Partition,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+55,Pipes in the wall,2,Plumbing,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+56,Electric conduits in the floor,5,Electricity,FALSE,TRUE,54,105.88%,54,null,2025-03-25 11:54:28.699895+00
+56,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+56,Partition phase 2,1,Partition,FALSE,TRUE,48,94.12%,54,56,2025-03-25 11:54:28.699895+00
+56,Pipes in the wall,2,Plumbing,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+57,Electric conduits in the floor,5,Electricity,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+57,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+57,Partition phase 1,3,Partition,FALSE,TRUE,56,101.82%,56,null,2025-03-25 11:54:28.699895+00
+57,Pipes in the wall,2,Plumbing,FALSE,TRUE,35,94.59%,54,null,2025-03-25 11:54:28.699895+00
+58,Electric conduits in the floor,5,Electricity,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+58,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+58,Partition phase 1,3,Partition,FALSE,TRUE,60,109.09%,56,null,2025-03-25 11:54:28.699895+00
+58,Pipes in the wall,2,Plumbing,FALSE,TRUE,39,105.41%,54,null,2025-03-25 11:54:28.699895+00
+59,Electric conduits in the floor,5,Electricity,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+59,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+59,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+59,Pipes in the wall,2,Plumbing,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+60,Electric conduits in the floor,5,Electricity,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+60,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+60,Partition phase 1,3,Partition,FALSE,TRUE,53,96.36%,56,null,2025-03-25 11:54:28.699895+00
+60,Pipes in the wall,2,Plumbing,FALSE,TRUE,39,105.41%,54,null,2025-03-25 11:54:28.699895+00
+61,Electric conduits in the floor,5,Electricity,FALSE,TRUE,54,105.88%,54,61,2025-03-25 11:54:28.699895+00
+61,Floor tiling,2,Tiling,FALSE,TRUE,64,103.23%,35,null,2025-03-25 11:54:28.699895+00
+61,Partition phase 1,3,Partition,FALSE,TRUE,60,109.09%,56,null,2025-03-25 11:54:28.699895+00
+61,Pipes in the wall,2,Plumbing,FALSE,TRUE,33,89.19%,54,null,2025-03-25 11:54:28.699895+00
+62,Electric conduits in the wall,1,Electricity,FALSE,TRUE,40,97.56%,61,null,2025-03-25 11:54:28.699895+00
+62,Floor tiling,2,Tiling,FALSE,TRUE,65,104.84%,35,null,2025-03-25 11:54:28.699895+00
+62,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+62,Pipes in the wall,2,Plumbing,FALSE,TRUE,35,94.59%,54,null,2025-03-25 11:54:28.699895+00
+63,Electric conduits in the wall,1,Electricity,TRUE,TRUE,0,0.00%,61,null,2025-03-25 11:54:28.699895+00
+63,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+63,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+63,Pipes in the wall,2,Plumbing,TRUE,TRUE,0,0.00%,54,null,2025-03-25 11:54:28.699895+00
+64,Electric conduits in the wall,1,Electricity,FALSE,TRUE,38,92.68%,61,null,2025-03-25 11:54:28.699895+00
+64,Floor tiling,2,Tiling,TRUE,TRUE,0,0.00%,35,null,2025-03-25 11:54:28.699895+00
+64,Partition phase 1,3,Partition,FALSE,TRUE,53,96.36%,56,null,2025-03-25 11:54:28.699895+00
+64,Pipes in the wall,2,Plumbing,FALSE,TRUE,35,94.59%,54,64,2025-03-25 11:54:28.699895+00
+65,Electric conduits in the wall,1,Electricity,FALSE,TRUE,40,97.56%,61,null,2025-03-25 11:54:28.699895+00
+65,Floor tiling,2,Tiling,FALSE,TRUE,57,91.94%,35,65,2025-03-25 11:54:28.699895+00
+65,Partition phase 1,3,Partition,FALSE,TRUE,53,96.36%,56,null,2025-03-25 11:54:28.699895+00
+65,Pipes in the floor,5,Plumbing,FALSE,TRUE,70,101.45%,64,null,2025-03-25 11:54:28.699895+00
+66,Electric conduits in the wall,1,Electricity,FALSE,TRUE,37,90.24%,61,null,2025-03-25 11:54:28.699895+00
+66,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+66,Partition phase 1,3,Partition,FALSE,TRUE,58,105.45%,56,null,2025-03-25 11:54:28.699895+00
+66,Pipes in the floor,5,Plumbing,TRUE,TRUE,0,0.00%,64,null,2025-03-25 11:54:28.699895+00
+67,Electric conduits in the wall,1,Electricity,FALSE,TRUE,38,92.68%,61,67,2025-03-25 11:54:28.699895+00
+67,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+67,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+67,Pipes in the floor,5,Plumbing,TRUE,TRUE,0,0.00%,64,null,2025-03-25 11:54:28.699895+00
+68,Floor tiling,3,Tiling,FALSE,TRUE,64,103.23%,65,null,2025-03-25 11:54:28.699895+00
+68,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+68,Pipes in the floor,5,Plumbing,TRUE,TRUE,0,0.00%,64,null,2025-03-25 11:54:28.699895+00
+69,Floor tiling,3,Tiling,FALSE,TRUE,68,109.68%,65,null,2025-03-25 11:54:28.699895+00
+69,Partition phase 1,3,Partition,FALSE,TRUE,60,109.09%,56,null,2025-03-25 11:54:28.699895+00
+69,Pipes in the floor,5,Plumbing,TRUE,TRUE,0,0.00%,64,null,2025-03-25 11:54:28.699895+00
+70,Floor tiling,3,Tiling,FALSE,TRUE,57,91.94%,65,null,2025-03-25 11:54:28.699895+00
+70,Partition phase 1,3,Partition,FALSE,TRUE,50,90.91%,56,null,2025-03-25 11:54:28.699895+00
+70,Pipes in the floor,5,Plumbing,TRUE,TRUE,0,0.00%,64,null,2025-03-25 11:54:28.699895+00
+71,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+71,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+71,Pipes in the floor,5,Plumbing,FALSE,TRUE,64,92.75%,64,71,2025-03-25 11:54:28.699895+00
+72,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+72,Partition phase 1,3,Partition,FALSE,TRUE,52,94.55%,56,null,2025-03-25 11:54:28.699895+00
+73,Floor tiling,3,Tiling,FALSE,TRUE,66,106.45%,65,null,2025-03-25 11:54:28.699895+00
+73,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+74,Floor tiling,3,Tiling,FALSE,TRUE,67,108.06%,65,null,2025-03-25 11:54:28.699895+00
+74,Partition phase 1,3,Partition,FALSE,TRUE,54,98.18%,56,null,2025-03-25 11:54:28.699895+00
+75,Floor tiling,3,Tiling,FALSE,TRUE,68,109.68%,65,null,2025-03-25 11:54:28.699895+00
+75,Partition phase 1,3,Partition,FALSE,TRUE,60,109.09%,56,null,2025-03-25 11:54:28.699895+00
+76,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+76,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+77,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+77,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+78,Floor tiling,3,Tiling,FALSE,TRUE,57,91.94%,65,null,2025-03-25 11:54:28.699895+00
+78,Partition phase 1,3,Partition,FALSE,TRUE,58,105.45%,56,null,2025-03-25 11:54:28.699895+00
+79,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+79,Partition phase 1,3,Partition,TRUE,TRUE,0,0.00%,56,null,2025-03-25 11:54:28.699895+00
+80,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+80,Partition phase 1,3,Partition,FALSE,TRUE,53,96.36%,56,80,2025-03-25 11:54:28.699895+00
+81,Floor tiling,3,Tiling,TRUE,TRUE,0,0.00%,65,null,2025-03-25 11:54:28.699895+00
+81,Partition phase 3,1,Partition,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+81,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+82,Floor tiling,3,Tiling,FALSE,TRUE,61,98.39%,65,null,2025-03-25 11:54:28.699895+00
+82,Partition phase 3,1,Partition,FALSE,TRUE,32,100.00%,80,null,2025-03-25 11:54:28.699895+00
+82,Pipes in the wall,3,Plumbing,FALSE,TRUE,41,110.81%,80,null,2025-03-25 11:54:28.699895+00
+83,Floor tiling,3,Tiling,FALSE,TRUE,58,93.55%,65,null,2025-03-25 11:54:28.699895+00
+83,Partition phase 3,1,Partition,FALSE,TRUE,34,106.25%,80,null,2025-03-25 11:54:28.699895+00
+83,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+84,Floor tiling,3,Tiling,FALSE,TRUE,58,93.55%,65,null,2025-03-25 11:54:28.699895+00
+84,Partition phase 3,1,Partition,FALSE,TRUE,29,90.63%,80,null,2025-03-25 11:54:28.699895+00
+84,Pipes in the wall,3,Plumbing,FALSE,TRUE,36,97.30%,80,null,2025-03-25 11:54:28.699895+00
+85,Floor tiling,3,Tiling,FALSE,TRUE,59,95.16%,65,null,2025-03-25 11:54:28.699895+00
+85,Partition phase 3,1,Partition,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+85,Pipes in the wall,3,Plumbing,FALSE,TRUE,34,91.89%,80,null,2025-03-25 11:54:28.699895+00
+86,Floor tiling,3,Tiling,FALSE,TRUE,66,106.45%,65,null,2025-03-25 11:54:28.699895+00
+86,Partition phase 3,1,Partition,FALSE,TRUE,30,93.75%,80,null,2025-03-25 11:54:28.699895+00
+86,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+87,Floor tiling,3,Tiling,FALSE,TRUE,64,103.23%,65,87,2025-03-25 11:54:28.699895+00
+87,Partition phase 3,1,Partition,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+87,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+88,Floor tiling,4,Tiling,FALSE,TRUE,60,96.77%,87,null,2025-03-25 11:54:28.699895+00
+88,Partition phase 3,1,Partition,FALSE,TRUE,32,100.00%,80,null,2025-03-25 11:54:28.699895+00
+88,Pipes in the wall,3,Plumbing,FALSE,TRUE,35,94.59%,80,null,2025-03-25 11:54:28.699895+00
+89,Floor tiling,4,Tiling,TRUE,TRUE,0,0.00%,87,null,2025-03-25 11:54:28.699895+00
+89,Partition phase 3,1,Partition,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+89,Pipes in the wall,3,Plumbing,FALSE,TRUE,35,94.59%,80,null,2025-03-25 11:54:28.699895+00
+90,Floor tiling,4,Tiling,FALSE,TRUE,56,90.32%,87,null,2025-03-25 11:54:28.699895+00
+90,Partition phase 3,1,Partition,FALSE,TRUE,35,109.38%,80,null,2025-03-25 11:54:28.699895+00
+90,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+91,Floor tiling,4,Tiling,FALSE,TRUE,56,90.32%,87,null,2025-03-25 11:54:28.699895+00
+91,Partition phase 3,1,Partition,FALSE,TRUE,31,96.88%,80,91,2025-03-25 11:54:28.699895+00
+91,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+92,Floor tiling,4,Tiling,FALSE,TRUE,62,100.00%,87,null,2025-03-25 11:54:28.699895+00
+92,Partition phase 2,2,Partition,FALSE,TRUE,53,103.92%,91,92,2025-03-25 11:54:28.699895+00
+92,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+93,Electric conduits in the wall,2,Electricity,FALSE,TRUE,40,97.56%,92,null,2025-03-25 11:54:28.699895+00
+93,Floor tiling,4,Tiling,FALSE,TRUE,56,90.32%,87,null,2025-03-25 11:54:28.699895+00
+93,Partition phase 1,4,Partition,FALSE,TRUE,51,92.73%,92,null,2025-03-25 11:54:28.699895+00
+93,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+94,Electric conduits in the wall,2,Electricity,FALSE,TRUE,42,102.44%,92,null,2025-03-25 11:54:28.699895+00
+94,Floor tiling,4,Tiling,FALSE,TRUE,60,96.77%,87,null,2025-03-25 11:54:28.699895+00
+94,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+94,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+95,Electric conduits in the wall,2,Electricity,FALSE,TRUE,40,97.56%,92,null,2025-03-25 11:54:28.699895+00
+95,Floor tiling,4,Tiling,FALSE,TRUE,67,108.06%,87,null,2025-03-25 11:54:28.699895+00
+95,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+95,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+96,Electric conduits in the wall,2,Electricity,FALSE,TRUE,43,104.88%,92,null,2025-03-25 11:54:28.699895+00
+96,Floor tiling,4,Tiling,FALSE,TRUE,61,98.39%,87,null,2025-03-25 11:54:28.699895+00
+96,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+96,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+97,Electric conduits in the wall,2,Electricity,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+97,Floor tiling,4,Tiling,TRUE,TRUE,0,0.00%,87,null,2025-03-25 11:54:28.699895+00
+97,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+97,Pipes in the wall,3,Plumbing,TRUE,TRUE,0,0.00%,80,null,2025-03-25 11:54:28.699895+00
+98,Electric conduits in the wall,2,Electricity,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+98,Floor tiling,4,Tiling,FALSE,TRUE,68,109.68%,87,null,2025-03-25 11:54:28.699895+00
+98,Partition phase 1,4,Partition,FALSE,TRUE,54,98.18%,92,null,2025-03-25 11:54:28.699895+00
+98,Pipes in the wall,3,Plumbing,FALSE,TRUE,40,108.11%,80,98,2025-03-25 11:54:28.699895+00
+99,Electric conduits in the wall,2,Electricity,FALSE,TRUE,39,95.12%,92,99,2025-03-25 11:54:28.699895+00
+99,Floor tiling,4,Tiling,FALSE,TRUE,64,103.23%,87,null,2025-03-25 11:54:28.699895+00
+99,Partition phase 1,4,Partition,FALSE,TRUE,54,98.18%,92,null,2025-03-25 11:54:28.699895+00
+100,Floor tiling,4,Tiling,TRUE,TRUE,0,0.00%,87,null,2025-03-25 11:54:28.699895+00
+100,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+101,Floor tiling,4,Tiling,TRUE,TRUE,0,0.00%,87,null,2025-03-25 11:54:28.699895+00
+101,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+102,Floor tiling,4,Tiling,FALSE,TRUE,59,95.16%,87,null,2025-03-25 11:54:28.699895+00
+102,Partition phase 1,4,Partition,FALSE,TRUE,59,107.27%,92,null,2025-03-25 11:54:28.699895+00
+103,Floor tiling,4,Tiling,TRUE,TRUE,0,0.00%,87,null,2025-03-25 11:54:28.699895+00
+103,Partition phase 1,4,Partition,FALSE,TRUE,53,96.36%,92,null,2025-03-25 11:54:28.699895+00
+104,Floor tiling,4,Tiling,FALSE,TRUE,63,101.61%,87,null,2025-03-25 11:54:28.699895+00
+104,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+105,Floor tiling,4,Tiling,FALSE,TRUE,68,109.68%,87,105,2025-03-25 11:54:28.699895+00
+105,Partition phase 1,4,Partition,FALSE,TRUE,56,101.82%,92,null,2025-03-25 11:54:28.699895+00
+106,Partition phase 1,4,Partition,FALSE,TRUE,56,101.82%,92,null,2025-03-25 11:54:28.699895+00
+106,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+107,Partition phase 1,4,Partition,FALSE,TRUE,60,109.09%,92,null,2025-03-25 11:54:28.699895+00
+107,Wall tiling,1,Tiling,FALSE,TRUE,26,96.30%,105,null,2025-03-25 11:54:28.699895+00
+108,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+108,Wall tiling,1,Tiling,FALSE,TRUE,25,92.59%,105,null,2025-03-25 11:54:28.699895+00
+109,Partition phase 1,4,Partition,FALSE,TRUE,52,94.55%,92,null,2025-03-25 11:54:28.699895+00
+109,Wall tiling,1,Tiling,FALSE,TRUE,26,96.30%,105,null,2025-03-25 11:54:28.699895+00
+110,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+110,Wall tiling,1,Tiling,FALSE,TRUE,29,107.41%,105,null,2025-03-25 11:54:28.699895+00
+111,Partition phase 1,4,Partition,FALSE,TRUE,50,90.91%,92,null,2025-03-25 11:54:28.699895+00
+111,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+112,Partition phase 1,4,Partition,FALSE,TRUE,50,90.91%,92,null,2025-03-25 11:54:28.699895+00
+112,Wall tiling,1,Tiling,FALSE,TRUE,24,88.89%,105,null,2025-03-25 11:54:28.699895+00
+113,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+113,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+114,Partition phase 1,4,Partition,FALSE,TRUE,59,107.27%,92,null,2025-03-25 11:54:28.699895+00
+114,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+115,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+115,Wall tiling,1,Tiling,FALSE,TRUE,29,107.41%,105,null,2025-03-25 11:54:28.699895+00
+116,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+116,Wall tiling,1,Tiling,FALSE,TRUE,29,107.41%,105,null,2025-03-25 11:54:28.699895+00
+117,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+117,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+118,Partition phase 1,4,Partition,FALSE,TRUE,52,94.55%,92,null,2025-03-25 11:54:28.699895+00
+118,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+119,Partition phase 1,4,Partition,FALSE,TRUE,55,100.00%,92,null,2025-03-25 11:54:28.699895+00
+119,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+120,Partition phase 1,4,Partition,TRUE,TRUE,0,0.00%,92,null,2025-03-25 11:54:28.699895+00
+120,Wall tiling,1,Tiling,FALSE,TRUE,30,111.11%,105,null,2025-03-25 11:54:28.699895+00
+121,Partition phase 1,4,Partition,FALSE,TRUE,51,92.73%,92,121,2025-03-25 11:54:28.699895+00
+121,Wall tiling,1,Tiling,TRUE,TRUE,0,0.00%,105,null,2025-03-25 11:54:28.699895+00
+122,Partition phase 3,2,Partition,FALSE,TRUE,33,103.13%,121,null,2025-03-25 11:54:28.699895+00
+122,Pipes in the wall,4,Plumbing,FALSE,TRUE,40,108.11%,121,null,2025-03-25 11:54:28.699895+00
+122,Wall tiling,1,Tiling,FALSE,TRUE,25,92.59%,105,null,2025-03-25 11:54:28.699895+00
+123,Partition phase 3,2,Partition,TRUE,TRUE,0,0.00%,121,null,2025-03-25 11:54:28.699895+00
+123,Pipes in the wall,4,Plumbing,FALSE,TRUE,37,100.00%,121,null,2025-03-25 11:54:28.699895+00
+123,Wall tiling,1,Tiling,FALSE,TRUE,29,107.41%,105,null,2025-03-25 11:54:28.699895+00
+124,Partition phase 3,2,Partition,FALSE,TRUE,29,90.63%,121,null,2025-03-25 11:54:28.699895+00
+124,Pipes in the wall,4,Plumbing,FALSE,TRUE,37,100.00%,121,null,2025-03-25 11:54:28.699895+00
+124,Wall tiling,1,Tiling,FALSE,TRUE,26,96.30%,105,124,2025-03-25 11:54:28.699895+00
+125,Floor tiling,5,Tiling,FALSE,TRUE,62,100.00%,124,null,2025-03-25 11:54:28.699895+00
+125,Partition phase 3,2,Partition,FALSE,TRUE,29,90.63%,121,null,2025-03-25 11:54:28.699895+00
+125,Pipes in the wall,4,Plumbing,FALSE,TRUE,37,100.00%,121,null,2025-03-25 11:54:28.699895+00
+126,Floor tiling,5,Tiling,FALSE,TRUE,61,98.39%,124,null,2025-03-25 11:54:28.699895+00
+126,Partition phase 3,2,Partition,TRUE,TRUE,0,0.00%,121,null,2025-03-25 11:54:28.699895+00
+126,Pipes in the wall,4,Plumbing,FALSE,TRUE,34,91.89%,121,null,2025-03-25 11:54:28.699895+00
+127,Floor tiling,5,Tiling,FALSE,TRUE,58,93.55%,124,null,2025-03-25 11:54:28.699895+00
+127,Partition phase 3,2,Partition,TRUE,TRUE,0,0.00%,121,null,2025-03-25 11:54:28.699895+00
+127,Pipes in the wall,4,Plumbing,TRUE,TRUE,0,0.00%,121,null,2025-03-25 11:54:28.699895+00
+128,Floor tiling,5,Tiling,FALSE,TRUE,67,108.06%,124,null,2025-03-25 11:54:28.699895+00
+128,Partition phase 3,2,Partition,FALSE,TRUE,30,93.75%,121,null,2025-03-25 11:54:28.699895+00
+128,Pipes in the wall,4,Plumbing,TRUE,TRUE,0,0.00%,121,null,2025-03-25 11:54:28.699895+00
+129,Floor tiling,5,Tiling,TRUE,TRUE,0,0.00%,124,null,2025-03-25 11:54:28.699895+00
+129,Partition phase 3,2,Partition,FALSE,TRUE,30,93.75%,121,null,2025-03-25 11:54:28.699895+00
+129,Pipes in the wall,4,Plumbing,TRUE,TRUE,0,0.00%,121,null,2025-03-25 11:54:28.699895+00
+130,Floor tiling,5,Tiling,TRUE,TRUE,0,0.00%,124,null,2025-03-25 11:54:28.699895+00
+130,Partition phase 3,2,Partition,FALSE,TRUE,31,96.88%,121,null,2025-03-25 11:54:28.699895+00
+130,Pipes in the wall,4,Plumbing,FALSE,TRUE,38,102.70%,121,130,2025-03-25 11:54:28.699895+00
+131,Floor tiling,5,Tiling,FALSE,TRUE,68,109.68%,124,null,2025-03-25 11:54:28.699895+00
+131,Partition phase 3,2,Partition,FALSE,TRUE,32,100.00%,121,null,2025-03-25 11:54:28.699895+00
+132,Floor tiling,5,Tiling,TRUE,TRUE,0,0.00%,124,null,2025-03-25 11:54:28.699895+00
+132,Partition phase 3,2,Partition,FALSE,TRUE,31,96.88%,121,132,2025-03-25 11:54:28.699895+00
+133,Floor tiling,5,Tiling,TRUE,TRUE,0,0.00%,124,null,2025-03-25 11:54:28.699895+00
+133,Partition phase 2,3,Partition,FALSE,TRUE,48,94.12%,132,133,2025-03-25 11:54:28.699895+00
+134,Electric conduits in the wall,3,Electricity,FALSE,TRUE,38,92.68%,133,null,2025-03-25 11:54:28.699895+00
+134,Floor tiling,5,Tiling,FALSE,TRUE,62,100.00%,124,null,2025-03-25 11:54:28.699895+00
+134,Partition phase 2,4,Partition,FALSE,TRUE,51,100.00%,133,134,2025-03-25 11:54:28.699895+00
+135,Electric conduits in the wall,3,Electricity,FALSE,TRUE,44,107.32%,133,null,2025-03-25 11:54:28.699895+00
+135,Floor tiling,5,Tiling,FALSE,TRUE,61,98.39%,124,null,2025-03-25 11:54:28.699895+00
+135,Partition phase 1,5,Partition,FALSE,TRUE,60,109.09%,134,null,2025-03-25 11:54:28.699895+00
+136,Electric conduits in the wall,3,Electricity,TRUE,TRUE,0,0.00%,133,null,2025-03-25 11:54:28.699895+00
+136,Floor tiling,5,Tiling,TRUE,TRUE,0,0.00%,124,null,2025-03-25 11:54:28.699895+00
+136,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+137,Electric conduits in the wall,3,Electricity,TRUE,TRUE,0,0.00%,133,null,2025-03-25 11:54:28.699895+00
+137,Floor tiling,5,Tiling,FALSE,TRUE,61,98.39%,124,null,2025-03-25 11:54:28.699895+00
+137,Partition phase 1,5,Partition,FALSE,TRUE,55,100.00%,134,null,2025-03-25 11:54:28.699895+00
+138,Electric conduits in the wall,3,Electricity,TRUE,TRUE,0,0.00%,133,null,2025-03-25 11:54:28.699895+00
+138,Floor tiling,5,Tiling,FALSE,TRUE,67,108.06%,124,null,2025-03-25 11:54:28.699895+00
+138,Partition phase 1,5,Partition,FALSE,TRUE,55,100.00%,134,null,2025-03-25 11:54:28.699895+00
+139,Electric conduits in the wall,3,Electricity,FALSE,TRUE,38,92.68%,133,null,2025-03-25 11:54:28.699895+00
+139,Floor tiling,5,Tiling,FALSE,TRUE,68,109.68%,124,null,2025-03-25 11:54:28.699895+00
+139,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+140,Electric conduits in the wall,3,Electricity,FALSE,TRUE,38,92.68%,133,null,2025-03-25 11:54:28.699895+00
+140,Floor tiling,5,Tiling,TRUE,TRUE,0,0.00%,124,null,2025-03-25 11:54:28.699895+00
+140,Partition phase 1,5,Partition,FALSE,TRUE,51,92.73%,134,null,2025-03-25 11:54:28.699895+00
+141,Electric conduits in the wall,3,Electricity,TRUE,TRUE,0,0.00%,133,null,2025-03-25 11:54:28.699895+00
+141,Floor tiling,5,Tiling,FALSE,TRUE,67,108.06%,124,null,2025-03-25 11:54:28.699895+00
+141,Partition phase 1,5,Partition,FALSE,TRUE,60,109.09%,134,null,2025-03-25 11:54:28.699895+00
+142,Electric conduits in the wall,3,Electricity,TRUE,TRUE,0,0.00%,133,null,2025-03-25 11:54:28.699895+00
+142,Floor tiling,5,Tiling,FALSE,TRUE,65,104.84%,124,142,2025-03-25 11:54:28.699895+00
+142,Partition phase 1,5,Partition,FALSE,TRUE,54,98.18%,134,null,2025-03-25 11:54:28.699895+00
+143,Electric conduits in the wall,3,Electricity,FALSE,TRUE,45,109.76%,133,143,2025-03-25 11:54:28.699895+00
+143,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+143,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+144,Electric conduits in the wall,4,Electricity,FALSE,TRUE,38,92.68%,143,null,2025-03-25 11:54:28.699895+00
+144,Partition phase 1,5,Partition,FALSE,TRUE,50,90.91%,134,null,2025-03-25 11:54:28.699895+00
+144,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+145,Electric conduits in the wall,4,Electricity,TRUE,TRUE,0,0.00%,143,null,2025-03-25 11:54:28.699895+00
+145,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+145,Wall tiling,2,Tiling,FALSE,TRUE,29,107.41%,142,null,2025-03-25 11:54:28.699895+00
+146,Electric conduits in the wall,4,Electricity,FALSE,TRUE,42,102.44%,143,null,2025-03-25 11:54:28.699895+00
+146,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+146,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+147,Electric conduits in the wall,4,Electricity,FALSE,TRUE,42,102.44%,143,null,2025-03-25 11:54:28.699895+00
+147,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+147,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+148,Electric conduits in the wall,4,Electricity,FALSE,TRUE,37,90.24%,143,null,2025-03-25 11:54:28.699895+00
+148,Partition phase 1,5,Partition,FALSE,TRUE,53,96.36%,134,null,2025-03-25 11:54:28.699895+00
+148,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+149,Electric conduits in the wall,4,Electricity,TRUE,TRUE,0,0.00%,143,null,2025-03-25 11:54:28.699895+00
+149,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+149,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+150,Electric conduits in the wall,4,Electricity,FALSE,TRUE,42,102.44%,143,150,2025-03-25 11:54:28.699895+00
+150,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+150,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+151,Partition phase 1,5,Partition,FALSE,TRUE,60,109.09%,134,null,2025-03-25 11:54:28.699895+00
+151,Wall tiling,2,Tiling,FALSE,TRUE,25,92.59%,142,null,2025-03-25 11:54:28.699895+00
+152,Partition phase 1,5,Partition,FALSE,TRUE,55,100.00%,134,null,2025-03-25 11:54:28.699895+00
+152,Wall tiling,2,Tiling,FALSE,TRUE,28,103.70%,142,null,2025-03-25 11:54:28.699895+00
+153,Partition phase 1,5,Partition,FALSE,TRUE,56,101.82%,134,null,2025-03-25 11:54:28.699895+00
+153,Wall tiling,2,Tiling,FALSE,TRUE,26,96.30%,142,null,2025-03-25 11:54:28.699895+00
+154,Partition phase 1,5,Partition,FALSE,TRUE,56,101.82%,134,null,2025-03-25 11:54:28.699895+00
+154,Wall tiling,2,Tiling,FALSE,TRUE,25,92.59%,142,null,2025-03-25 11:54:28.699895+00
+155,Partition phase 1,5,Partition,TRUE,TRUE,0,0.00%,134,null,2025-03-25 11:54:28.699895+00
+155,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+156,Partition phase 1,5,Partition,FALSE,TRUE,51,92.73%,134,null,2025-03-25 11:54:28.699895+00
+156,Wall tiling,2,Tiling,FALSE,TRUE,27,100.00%,142,null,2025-03-25 11:54:28.699895+00
+157,Partition phase 1,5,Partition,FALSE,TRUE,58,105.45%,134,157,2025-03-25 11:54:28.699895+00
+157,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+158,Partition phase 3,3,Partition,FALSE,TRUE,35,109.38%,157,null,2025-03-25 11:54:28.699895+00
+158,Pipes in the wall,5,Plumbing,FALSE,TRUE,37,100.00%,157,null,2025-03-25 11:54:28.699895+00
+158,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+159,Partition phase 3,3,Partition,FALSE,TRUE,31,96.88%,157,null,2025-03-25 11:54:28.699895+00
+159,Pipes in the wall,5,Plumbing,TRUE,TRUE,0,0.00%,157,null,2025-03-25 11:54:28.699895+00
+159,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+160,Partition phase 3,3,Partition,FALSE,TRUE,32,100.00%,157,null,2025-03-25 11:54:28.699895+00
+160,Pipes in the wall,5,Plumbing,FALSE,TRUE,35,94.59%,157,null,2025-03-25 11:54:28.699895+00
+160,Wall tiling,2,Tiling,FALSE,TRUE,28,103.70%,142,null,2025-03-25 11:54:28.699895+00
+161,Partition phase 3,3,Partition,FALSE,TRUE,33,103.13%,157,null,2025-03-25 11:54:28.699895+00
+161,Pipes in the wall,5,Plumbing,TRUE,TRUE,0,0.00%,157,null,2025-03-25 11:54:28.699895+00
+161,Wall tiling,2,Tiling,FALSE,TRUE,26,96.30%,142,null,2025-03-25 11:54:28.699895+00
+162,Partition phase 3,3,Partition,FALSE,TRUE,30,93.75%,157,null,2025-03-25 11:54:28.699895+00
+162,Pipes in the wall,5,Plumbing,FALSE,TRUE,39,105.41%,157,null,2025-03-25 11:54:28.699895+00
+162,Wall tiling,2,Tiling,FALSE,TRUE,28,103.70%,142,null,2025-03-25 11:54:28.699895+00
+163,Partition phase 3,3,Partition,FALSE,TRUE,29,90.63%,157,null,2025-03-25 11:54:28.699895+00
+163,Pipes in the wall,5,Plumbing,TRUE,TRUE,0,0.00%,157,null,2025-03-25 11:54:28.699895+00
+163,Wall tiling,2,Tiling,TRUE,TRUE,0,0.00%,142,null,2025-03-25 11:54:28.699895+00
+164,Partition phase 3,3,Partition,TRUE,TRUE,0,0.00%,157,null,2025-03-25 11:54:28.699895+00
+164,Pipes in the wall,5,Plumbing,TRUE,TRUE,0,0.00%,157,null,2025-03-25 11:54:28.699895+00
+164,Wall tiling,2,Tiling,FALSE,TRUE,28,103.70%,142,null,2025-03-25 11:54:28.699895+00
+165,Partition phase 3,3,Partition,TRUE,TRUE,0,0.00%,157,null,2025-03-25 11:54:28.699895+00
+165,Pipes in the wall,5,Plumbing,FALSE,TRUE,34,91.89%,157,null,2025-03-25 11:54:28.699895+00
+165,Wall tiling,2,Tiling,FALSE,TRUE,29,107.41%,142,165,2025-03-25 11:54:28.699895+00
+166,Partition phase 3,3,Partition,FALSE,TRUE,30,93.75%,157,166,2025-03-25 11:54:28.699895+00
+166,Pipes in the wall,5,Plumbing,TRUE,TRUE,0,0.00%,157,null,2025-03-25 11:54:28.699895+00
+167,Partition phase 3,4,Partition,FALSE,TRUE,29,90.63%,166,null,2025-03-25 11:54:28.699895+00
+167,Pipes in the wall,5,Plumbing,FALSE,TRUE,36,97.30%,157,null,2025-03-25 11:54:28.699895+00
+167,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+168,Partition phase 3,4,Partition,FALSE,TRUE,32,100.00%,166,null,2025-03-25 11:54:28.699895+00
+168,Pipes in the wall,5,Plumbing,FALSE,TRUE,40,108.11%,157,168,2025-03-25 11:54:28.699895+00
+168,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+169,Partition phase 3,4,Partition,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+169,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+170,Partition phase 3,4,Partition,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+170,Wall tiling,3,Tiling,FALSE,TRUE,25,92.59%,166,null,2025-03-25 11:54:28.699895+00
+171,Partition phase 3,4,Partition,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+171,Wall tiling,3,Tiling,FALSE,TRUE,25,92.59%,166,null,2025-03-25 11:54:28.699895+00
+172,Partition phase 3,4,Partition,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+172,Wall tiling,3,Tiling,FALSE,TRUE,24,88.89%,166,null,2025-03-25 11:54:28.699895+00
+173,Partition phase 3,4,Partition,FALSE,TRUE,30,93.75%,166,null,2025-03-25 11:54:28.699895+00
+173,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+174,Partition phase 3,4,Partition,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+174,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+175,Partition phase 3,4,Partition,FALSE,TRUE,32,100.00%,166,null,2025-03-25 11:54:28.699895+00
+175,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+176,Partition phase 3,4,Partition,FALSE,TRUE,34,106.25%,166,null,2025-03-25 11:54:28.699895+00
+176,Wall tiling,3,Tiling,FALSE,TRUE,25,92.59%,166,null,2025-03-25 11:54:28.699895+00
+177,Partition phase 3,4,Partition,FALSE,TRUE,33,103.13%,166,null,2025-03-25 11:54:28.699895+00
+177,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+178,Partition phase 3,4,Partition,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+178,Wall tiling,3,Tiling,FALSE,TRUE,29,107.41%,166,null,2025-03-25 11:54:28.699895+00
+179,Partition phase 3,4,Partition,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+179,Wall tiling,3,Tiling,FALSE,TRUE,25,92.59%,166,null,2025-03-25 11:54:28.699895+00
+180,Partition phase 3,4,Partition,FALSE,TRUE,31,96.88%,166,180,2025-03-25 11:54:28.699895+00
+180,Wall tiling,3,Tiling,FALSE,TRUE,26,96.30%,166,null,2025-03-25 11:54:28.699895+00
+181,Partition phase 2,5,Partition,FALSE,TRUE,52,101.96%,180,181,2025-03-25 11:54:28.699895+00
+181,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+182,Electric conduits in the wall,5,Electricity,TRUE,TRUE,0,0.00%,181,null,2025-03-25 11:54:28.699895+00
+182,Wall tiling,3,Tiling,FALSE,TRUE,26,96.30%,166,null,2025-03-25 11:54:28.699895+00
+183,Electric conduits in the wall,5,Electricity,FALSE,TRUE,43,104.88%,181,null,2025-03-25 11:54:28.699895+00
+183,Wall tiling,3,Tiling,FALSE,TRUE,27,100.00%,166,null,2025-03-25 11:54:28.699895+00
+184,Electric conduits in the wall,5,Electricity,FALSE,TRUE,43,104.88%,181,null,2025-03-25 11:54:28.699895+00
+184,Wall tiling,3,Tiling,FALSE,TRUE,25,92.59%,166,null,2025-03-25 11:54:28.699895+00
+185,Electric conduits in the wall,5,Electricity,TRUE,TRUE,0,0.00%,181,null,2025-03-25 11:54:28.699895+00
+185,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+186,Electric conduits in the wall,5,Electricity,TRUE,TRUE,0,0.00%,181,null,2025-03-25 11:54:28.699895+00
+186,Wall tiling,3,Tiling,TRUE,TRUE,0,0.00%,166,null,2025-03-25 11:54:28.699895+00
+187,Electric conduits in the wall,5,Electricity,TRUE,TRUE,0,0.00%,181,null,2025-03-25 11:54:28.699895+00
+187,Wall tiling,3,Tiling,FALSE,TRUE,26,96.30%,166,187,2025-03-25 11:54:28.699895+00
+188,Electric conduits in the wall,5,Electricity,FALSE,TRUE,43,104.88%,181,null,2025-03-25 11:54:28.699895+00
+188,Wall tiling,4,Tiling,FALSE,TRUE,29,107.41%,187,null,2025-03-25 11:54:28.699895+00
+189,Electric conduits in the wall,5,Electricity,FALSE,TRUE,43,104.88%,181,null,2025-03-25 11:54:28.699895+00
+189,Wall tiling,4,Tiling,FALSE,TRUE,25,92.59%,187,null,2025-03-25 11:54:28.699895+00
+190,Electric conduits in the wall,5,Electricity,FALSE,TRUE,44,107.32%,181,190,2025-03-25 11:54:28.699895+00
+190,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+191,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+191,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+192,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+192,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+193,Partition phase 3,5,Partition,FALSE,TRUE,34,106.25%,190,null,2025-03-25 11:54:28.699895+00
+193,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+194,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+194,Wall tiling,4,Tiling,FALSE,TRUE,25,92.59%,187,null,2025-03-25 11:54:28.699895+00
+195,Partition phase 3,5,Partition,FALSE,TRUE,33,103.13%,190,null,2025-03-25 11:54:28.699895+00
+195,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+196,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+196,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+197,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+197,Wall tiling,4,Tiling,FALSE,TRUE,29,107.41%,187,null,2025-03-25 11:54:28.699895+00
+198,Partition phase 3,5,Partition,FALSE,TRUE,31,96.88%,190,null,2025-03-25 11:54:28.699895+00
+198,Wall tiling,4,Tiling,FALSE,TRUE,26,96.30%,187,null,2025-03-25 11:54:28.699895+00
+199,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+199,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+200,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+200,Wall tiling,4,Tiling,FALSE,TRUE,28,103.70%,187,null,2025-03-25 11:54:28.699895+00
+201,Partition phase 3,5,Partition,TRUE,TRUE,0,0.00%,190,null,2025-03-25 11:54:28.699895+00
+201,Wall tiling,4,Tiling,FALSE,TRUE,25,92.59%,187,null,2025-03-25 11:54:28.699895+00
+202,Partition phase 3,5,Partition,FALSE,TRUE,35,109.38%,190,null,2025-03-25 11:54:28.699895+00
+202,Wall tiling,4,Tiling,TRUE,TRUE,0,0.00%,187,null,2025-03-25 11:54:28.699895+00
+203,Partition phase 3,5,Partition,FALSE,TRUE,30,93.75%,190,null,2025-03-25 11:54:28.699895+00
+203,Wall tiling,4,Tiling,FALSE,TRUE,26,96.30%,187,null,2025-03-25 11:54:28.699895+00
+204,Partition phase 3,5,Partition,FALSE,TRUE,32,100.00%,190,null,2025-03-25 11:54:28.699895+00
+204,Wall tiling,4,Tiling,FALSE,TRUE,26,96.30%,187,null,2025-03-25 11:54:28.699895+00
+205,Partition phase 3,5,Partition,FALSE,TRUE,31,96.88%,190,205,2025-03-25 11:54:28.699895+00
+205,Wall tiling,4,Tiling,FALSE,TRUE,27,100.00%,187,null,2025-03-25 11:54:28.699895+00
+206,Wall tiling,4,Tiling,FALSE,TRUE,25,92.59%,187,206,2025-03-25 11:54:28.699895+00
+207,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+208,Wall tiling,5,Tiling,FALSE,TRUE,25,92.59%,206,null,2025-03-25 11:54:28.699895+00
+209,Wall tiling,5,Tiling,FALSE,TRUE,29,107.41%,206,null,2025-03-25 11:54:28.699895+00
+210,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+211,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+212,Wall tiling,5,Tiling,FALSE,TRUE,29,107.41%,206,null,2025-03-25 11:54:28.699895+00
+213,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+214,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+215,Wall tiling,5,Tiling,FALSE,TRUE,29,107.41%,206,null,2025-03-25 11:54:28.699895+00
+216,Wall tiling,5,Tiling,FALSE,TRUE,27,100.00%,206,null,2025-03-25 11:54:28.699895+00
+217,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+218,Wall tiling,5,Tiling,FALSE,TRUE,29,107.41%,206,null,2025-03-25 11:54:28.699895+00
+219,Wall tiling,5,Tiling,FALSE,TRUE,25,92.59%,206,null,2025-03-25 11:54:28.699895+00
+220,Wall tiling,5,Tiling,FALSE,TRUE,28,103.70%,206,null,2025-03-25 11:54:28.699895+00
+221,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+222,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+223,Wall tiling,5,Tiling,FALSE,TRUE,25,92.59%,206,null,2025-03-25 11:54:28.699895+00
+224,Wall tiling,5,Tiling,FALSE,TRUE,28,103.70%,206,null,2025-03-25 11:54:28.699895+00
+225,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+226,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+227,Wall tiling,5,Tiling,TRUE,TRUE,0,0.00%,206,null,2025-03-25 11:54:28.699895+00
+228,Wall tiling,5,Tiling,FALSE,TRUE,27,100.00%,206,228,2025-03-25 11:54:28.699895+00
